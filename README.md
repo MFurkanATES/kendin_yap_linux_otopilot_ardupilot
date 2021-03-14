@@ -32,13 +32,21 @@ Saygılar.
 M.Furkan ATEŞ
 BlackBird UAV
 
+Ana proje 
 https://spikey.si/how-raspberry-pi-zero-got-ardupilot-hopefully-flies/
+https://diydrones.com/profiles/blogs/mini-zee-a-100-diy-smart-drone-with-the-pi-zero-and-apm
+
+Gerçek zamanlı işletim sistemi için RT Preempt yamasi
 http://www.frank-durr.de/?p=203
+
+Ardupilot projesi
+https://github.com/ArduPilot
 https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md
+
+Linux servisleri eklemek ve linux için harici kullandığım kaynaklar
 https://docs.emlid.com/navio/common/ardupilot/building-from-sources/
 https://docs.emlid.com/navio/common/ardupilot/installation-and-running/
 https://github.com/angelsantamaria/ardupilot_copter_bbblue
-https://diydrones.com/profiles/blogs/mini-zee-a-100-diy-smart-drone-with-the-pi-zero-and-apm
 https://github.com/mirkix/ardupilotblue
 https://discuss.ardupilot.org/t/beaglebone-blue-ardupilot-blue-real-time-kernel-etc/25530
 https://sudonull.com/post/8513-ArduPilot-for-beginners-Installation-and-configuration-on-BeagleBone-Blue
