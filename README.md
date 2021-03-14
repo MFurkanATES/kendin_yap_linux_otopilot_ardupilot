@@ -23,12 +23,15 @@ Proje için ihtiyacınız olan ekipmanlar şunlardır:
 12. 
 
 Mpu-9250 Prototipleme kartı
+
 ![imu](https://github.com/MFurkanATES/kendin_yap_linux_otopilot_ardupilot/blob/main/MPU-9250-Accel-Gyro-and-Mag-Module-Connections.jpg)
 
 MS5611 Prototpileme kartı
+
 ![baro](https://github.com/MFurkanATES/kendin_yap_linux_otopilot_ardupilot/blob/main/baro_ms5611.jpg)
 
 Raspberry Pi Zero Wireless
+
 ![pi_zero](https://github.com/MFurkanATES/kendin_yap_linux_otopilot_ardupilot/blob/main/rpizero.jpeg)
 
 öncelikli olarak bir yerleşim planı secmelisiniz.Benim tercih ettiğim yerleşim şu şekildedir.Bu konuda çok önemli bir konu yok sadece lehimleme kolaylığndan dolayi bu şekilde seçilmiştir.
