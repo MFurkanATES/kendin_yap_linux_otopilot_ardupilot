@@ -36,6 +36,7 @@ Raspberry Pi Zero Wireless
 
 öncelikli olarak bir yerleşim planı secmelisiniz.Benim tercih ettiğim yerleşim şu şekildedir.Bu konuda çok önemli bir konu yok sadece lehimleme kolaylığndan dolayi bu şekilde seçilmiştir.
 
+Lehimlemeyi aşağıda ki şematikleri kullanarak istediğiniz gibi yapın 
 
 
 Proje aşagıdaki kaynaklar kullanılarak yapılmıştır.Araştırmalarınızda ve uçuşlarınızda başarılar dilerim.
