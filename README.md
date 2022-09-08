@@ -67,3 +67,5 @@ https://github.com/angelsantamaria/ardupilot_copter_bbblue
 https://github.com/mirkix/ardupilotblue
 https://discuss.ardupilot.org/t/beaglebone-blue-ardupilot-blue-real-time-kernel-etc/25530
 https://sudonull.com/post/8513-ArduPilot-for-beginners-Installation-and-configuration-on-BeagleBone-Blue
+
+Projenin tam olarak nasıl yapılacağı konusu kontrolsuz şekillerde üretimine sebebiyet vermemek amaçlı tam olarak anlatılmamıştır.
